@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/GeekHunt/static/css/main.050a6e21.css",
-    "main.js": "/GeekHunt/static/js/main.b910c4f4.js",
+    "main.js": "/GeekHunt/static/js/main.b28e273d.js",
     "index.html": "/GeekHunt/index.html",
     "main.050a6e21.css.map": "/GeekHunt/static/css/main.050a6e21.css.map",
-    "main.b910c4f4.js.map": "/GeekHunt/static/js/main.b910c4f4.js.map"
+    "main.b28e273d.js.map": "/GeekHunt/static/js/main.b28e273d.js.map"
   },
   "entrypoints": [
     "static/css/main.050a6e21.css",
-    "static/js/main.b910c4f4.js"
+    "static/js/main.b28e273d.js"
   ]
 }
